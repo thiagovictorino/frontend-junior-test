@@ -1,4 +1,4 @@
-# Fullstack Júnior teste
+# Fullstack Júnior (desafio)
 O objetivo desse desafio é identificar em qual nível de programador Júnior você se encontra. É esperado que você possa terminar esse teste em uns 4 dias dedicando apenas algumas horas no seu dia. Isso já contando com a curva de aprendizado. Porém, você pode levar mais ou menos tempo dependendo das suas habilidades.
 
 O desafio consiste em demonstrar essas expertises
