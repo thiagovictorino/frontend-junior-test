@@ -11,7 +11,10 @@ O desafio consiste em demonstrar essas expertises
  # Descrição do desafio
  Desenvolver uma calculadora com operações básicas (soma, multiplicação, divisão, adição e porcentagem) na qual a sua aparência deve ser o mais próximo possível da imagem abaixo
  
- ---
+ <p align="center">
+  <img width="460" src="https://github.com/thiagovictorino/frontend-junior-test/blob/master/imagem-calculadora.jpeg?raw=true">
+</p>
+
  
 Todos os cálculos devem ser feitos no backend e devolvidos para serem mostrados no frontend. As funcionalidades da calculadora devem ficar o mais próximo possível de uma calculadora comum de celular, usando as funções AC e +/-.
  
